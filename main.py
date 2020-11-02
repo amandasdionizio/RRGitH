@@ -4,9 +4,9 @@ from generator import Generator
 
 if __name__ == '__main__':
 
-    parser = argparse.ArgumentParser(description='Example')
+    parser = argparse.ArgumentParser(description='RRGitH (Resume Repositories GitHub)')
 
-    help_text = "Define the languages ​​that the projects should use, separated by a comma." + \
+    help_text = "Define the languages that the projects should use, separated by a comma." + \
     "E.g.: Python,HTML"
 
     parser.add_argument(
