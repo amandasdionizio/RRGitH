@@ -19,6 +19,10 @@ Running the software
 To run the software use:
 
     $ python main.py
+
+For more information on how to use application:
+    
+    $ python main.py --help
     
 When running the software a directory called `data` will be created in the user's home directory.
 
